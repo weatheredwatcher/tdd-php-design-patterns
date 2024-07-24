@@ -1,6 +1,6 @@
 # Test Driven Development with PHP Design Patterns
 
-[![Build Status](https://github.com/mezzio/mezzio-skeleton/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/mezzio/mezzio-skeleton/actions/workflows/continuous-integration.yml)
+[![PHP Composer](https://github.com/weatheredwatcher/tdd-php-design-patterns/actions/workflows/php.yml/badge.svg)](https://github.com/weatheredwatcher/tdd-php-design-patterns/actions/workflows/php.yml)
 
 ## Getting Started
 
