@@ -40,6 +40,7 @@
 !_TAG_KIND_DESCRIPTION!XML	i,id	/id attributes/
 !_TAG_KIND_DESCRIPTION!XML	n,nsprefix	/namespace prefixes/
 !_TAG_KIND_DESCRIPTION!XML	r,root	/root elements/
+!_TAG_KIND_DESCRIPTION!Yaml	a,anchor	/anchors/
 !_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
@@ -49,6 +50,7 @@
 !_TAG_PARSER_VERSION!PHP	0.0	/current.age/
 !_TAG_PARSER_VERSION!Sh	0.0	/current.age/
 !_TAG_PARSER_VERSION!XML	0.0	/current.age/
+!_TAG_PARSER_VERSION!Yaml	0.0	/current.age/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
 !_TAG_PROC_CWD	/Users/weatheredwatcher/Source/tdd-php-design-patterns/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
@@ -57,6 +59,7 @@
 !_TAG_PROGRAM_VERSION	6.1.0	//
 !_TAG_ROLE_DESCRIPTION!Sh!heredoc	endmarker	/end marker/
 !_TAG_ROLE_DESCRIPTION!Sh!script	loaded	/loaded/
+!_TAG_ROLE_DESCRIPTION!Yaml!anchor	alias	/alias/
 0	composer.json	/^                "mezzio\/mezzio",$/;"	s	array:extra.laminas.component-whitelist
 0	composer.json	/^            "@cs-check",$/;"	s	array:scripts.check
 0	composer.json	/^            "@development-enable"$/;"	s	array:scripts.post-create-project-cmd
